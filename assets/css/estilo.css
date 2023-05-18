@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(8, 49, 74);
+}
+h5{
+    border:rgb(104, 143, 222) 3px solid;
+    background-color: rgb(228, 228, 228);
+    color:rgb(0, 0, 0);
+    margin:auto;
+    padding:6px;
+    font-size: 25px;
+}
+p{
+    color:rgb(98, 240, 233);
+    font-size: 25px;
+}
+fieldset{
+    border: dotted rgb(40, 179, 244);
+}
+a{
+    color:rgb(0, 213, 255);
+    text-decoration:none;
+    font-size: 30px;
+    margin-left: 20px;
+}
+a:hover{
+    text-decoration:underline;
+    color:rgb(46, 179, 251);
+}
+.botoes{
+    left:600px;
+}
+header{
+    position:relative;
+    left:1200px;
+    padding:10px;
+}
+#item-select{
+    text-decoration:underline;
+}
